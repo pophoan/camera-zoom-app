@@ -1,3 +1,6 @@
+請使用手機登錄以網址測試
+https://pophoan.github.io/camera-zoom-app/
+
 # Camera Zoom App
 
 一個使用 **React** + **TypeScript** (或 JavaScript) 建立的範例專案，示範了：
