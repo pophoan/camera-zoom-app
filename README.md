@@ -1,4 +1,4 @@
-請使用手機登錄以網址測試
+請使用手機登錄以下網址測試
 https://pophoan.github.io/camera-zoom-app/
 
 # Camera Zoom App
